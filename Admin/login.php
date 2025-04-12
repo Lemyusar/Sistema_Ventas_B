@@ -42,7 +42,7 @@ include('../Layout/sesion.php');
             <br>
             <div class="card card-outline card-primary">
                 <div class="card-header text-center">
-                    <a href="#" class="h1"><b>Sistema de</b><br>Ventas</a>
+                    <a href="#" class="h1"><b>Sistema de</b><br>Ventas Betterware</a>
                 </div>
                 <div class="card-body">
                     <p class="login-box-msg">Ingrese sus datos</p>
