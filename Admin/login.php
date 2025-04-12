@@ -39,10 +39,9 @@ include('../Layout/sesion.php');
             <center>
                 <img src="https://img.freepik.com/vector-gratis/analistas-demanda-dandose-mano-pantallas-portatiles-planificando-demanda-futura-planificacion-demanda-analisis-demanda-ilustracion-concepto-pronostico-ventas-digitales_335657-2098.jpg?w=826&t=st=1704333496~exp=1704334096~hmac=cda71f54c628986ce94a8eaeaa630bf3c56b3841b4429fd23978a71230aec2b3" alt="" width="300px">
             </center>
-            <br>
             <div class="card card-outline card-primary">
                 <div class="card-header text-center">
-                    <a href="#" class="h1"><b>Sistema de</b><br>Ventas Betterware</a>
+                    <h1 class="h1"><b>Sistema de</b><br>Ventas Betterware</h1>
                 </div>
                 <div class="card-body">
                     <p class="login-box-msg">Ingrese sus datos</p>
