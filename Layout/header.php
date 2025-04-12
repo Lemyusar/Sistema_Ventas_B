@@ -57,10 +57,6 @@
         .nav a:hover {
             color: #ffd6e9;
         }
-
-        p{
-            background-color: red;
-        }
     </style>
 </head>
 
@@ -78,5 +74,4 @@
                 <li><a href="#contacto">Contacto</a></li>
             </ul>
         </nav>
-        <p>Hola</p>
     </header>
