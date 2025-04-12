@@ -11,7 +11,7 @@ include('../Layout/sesion.php');
         <title>Better A&A</title>
 
         <!-- Theme style -->
-        <link rel="stylesheet" href="<?php echo $URL;?>Public/css/login_admin.css">
+        <link rel="stylesheet" href="<?php echo $URL;?>Public/css/Admin/login.css">
         <!--Librería SweetAlert2-->
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
