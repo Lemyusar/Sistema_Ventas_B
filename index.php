@@ -6,7 +6,7 @@
     }
 
     p{
-        background-color: salmon
+        background-color: blue
     }
 </style>
 
