@@ -1,0 +1,57 @@
+/* login_admin.css */
+
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.login-box {
+    width: 300px;
+    margin: 7% auto;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.card-header .h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.login-box-msg {
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.input-group .form-control {
+    height: 45px;
+    font-size: 15px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.text-center {
+    text-align: center;
+}
+
+a {
+    color: #007bff;
+}
+
+a:hover {
+    text-decoration: underline;
+}
