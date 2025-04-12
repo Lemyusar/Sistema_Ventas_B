@@ -5,7 +5,7 @@
         background-color: aqua
     }
 
-    p{
+    main p{
         background-color: blue
     }
 </style>
